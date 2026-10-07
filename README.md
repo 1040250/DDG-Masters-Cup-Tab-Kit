@@ -23,6 +23,6 @@ Für jedes Turnier eine Kopie der Datei verwenden und vorher testen.
 
 ## Lizenz
 
-Das Programm (`DDG Tab.xlsm` inkl. VBA-Code) steht unter der [MIT-Lizenz](LICENSE). Das enthaltene Modul `Dictionary` stammt von Tim Hall ([VBA-Dictionary](https://github.com/timhall/VBA-Dictionary), ebenfalls MIT).
+Das Programm (`DDG Tab.xlsm` inkl. VBA-Code) steht unter der [MIT-Lizenz](LICENSE).
 
 Ausgenommen sind das DDG-Logo, die Regeln, Ballot, Briefing-Folien und das Design der PowerPoint-Vorlage: Alle Rechte liegen bei der Deutschen Debattiergesellschaft.
